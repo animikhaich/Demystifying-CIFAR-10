@@ -143,3 +143,6 @@ dmypy.json
 data
 *.tar
 *.gz
+
+# Ignore Weigjts
+*.h5
